@@ -17,7 +17,7 @@ public class SimpleTest {
 
 		System.out.println("result is :" + result);
 		
-		assertTrue(result == 3);
+		assertTrue(result == 4);
 		
 		//assertTrue(result2 == 2);
 		
