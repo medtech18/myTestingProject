@@ -21,5 +21,9 @@ public class SimpleTest {
 		
 		//assertTrue(result2 == 2);
 		
+		
+		System.out.println("Change two ");
+
+		
 	}
 }
