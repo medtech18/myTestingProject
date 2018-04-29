@@ -14,6 +14,7 @@ public class MySimpleClass {
 	             count++;
 	        }
 	    }
+		System.out.println("This was builed ");
 	    
 	    return count;
 
