@@ -16,6 +16,5 @@ public class SimpleTest {
 		//System.out.println("result is :" + result);
 		
 		assertTrue(result == 43);
-				
 	}
 }
