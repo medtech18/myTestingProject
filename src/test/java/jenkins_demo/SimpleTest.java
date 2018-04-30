@@ -13,6 +13,6 @@ public class SimpleTest {
 		
 		int result = example.countOccurence("la casa de papel", 'a');
 				
-		assertTrue(result == 4);
+		assertTrue(result == 5);
 	}
 }
