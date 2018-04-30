@@ -12,9 +12,7 @@ public class SimpleTest {
 		MySimpleClass example = new MySimpleClass();
 		
 		int result = example.countOccurence("la casa de papel", 'a');
-		
-		//System.out.println("result is :" + result);
-		
-		assertTrue(result == 5);
+				
+		assertTrue(result == 4);
 	}
 }

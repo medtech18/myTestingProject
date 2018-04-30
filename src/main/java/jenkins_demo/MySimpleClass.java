@@ -15,7 +15,6 @@ public class MySimpleClass {
 	        }
 	    }	   
 	    
-	    System.out.println("my First Change");
 	    
 	    return count;
 
